@@ -1,4 +1,4 @@
-# kickstart.nvim
+# kickstart.nvim  (forked from nvim-lua/kickstart.nvim)
 
 ## Introduction
 
